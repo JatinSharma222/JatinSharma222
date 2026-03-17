@@ -118,13 +118,6 @@ Hello, I'm **Jatin Sharma** — a passionate Full-Stack & AI Developer focused o
 
 </div>
 
-### 🗂️ Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JatinSharma222&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
-
-</div>
 
 ### 📈 Contribution Graph
 
