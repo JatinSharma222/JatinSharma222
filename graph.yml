@@ -1,12 +1,30 @@
-name: Update Graph
+name: Update Contribution Graph
+
 on:
   schedule:
-    - cron: '0 0 * * 0'
-  workflow_dispatch:
+    - cron: '0 2 * * 0'   # every Sunday at 02:00 UTC
+  workflow_dispatch:       # manual trigger from Actions tab
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v3
-      - run: python3 gen_graph.py
-      - run: git config user.name github-actions && git config user.email actions@github.com && git add contribution-graph.svg && git commit -m "chore: update contribution graph" && git push
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate SVG with real data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUTPUT: contribution-graph.svg
+        run: python3 gen_graph.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contribution-graph.svg
+          git diff --cached --quiet || git commit -m "chore: refresh contribution graph"
+          git push
