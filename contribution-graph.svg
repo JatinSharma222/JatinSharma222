@@ -1,0 +1,405 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 758 154" width="758" height="154">
+<defs>
+  <style>
+    .cell { rx: 2; }
+    @keyframes pop {
+      0%   { opacity: 0; transform-origin: center center; transform: scale(0.3); }
+      70%  { transform: scale(1.15); opacity: 1; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+    @keyframes glow {
+      0%,100% { filter: brightness(1); }
+      50%      { filter: brightness(1.6) drop-shadow(0 0 3px #e8c97e); }
+    }
+    .lit { animation: glow 3s ease-in-out infinite; }
+  </style>
+</defs>
+<rect width="758" height="154" fill="#0d0f14"/>
+
+<text x="28" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Mar</text>
+<text x="56" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Apr</text>
+<text x="112" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">May</text>
+<text x="168" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Jun</text>
+<text x="238" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Jul</text>
+<text x="294" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Aug</text>
+<text x="364" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Sep</text>
+<text x="420" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Oct</text>
+<text x="476" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Nov</text>
+<text x="546" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Dec</text>
+<text x="602" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Jan</text>
+<text x="658" y="14" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Feb</text>
+<text x="0" y="45" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Mon</text>
+<text x="0" y="73" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Wed</text>
+<text x="0" y="101" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">Fri</text>
+<rect x="28" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.0s both"/>
+<rect x="28" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.004s both"/>
+<rect x="28" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.008s both"/>
+<rect x="28" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.012s both"/>
+<rect x="28" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.016s both"/>
+<rect x="28" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.02s both"/>
+<rect x="28" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.024s both"/>
+<rect x="42" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.02s both"/>
+<rect x="42" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.024s both"/>
+<rect x="42" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.028s both"/>
+<rect x="42" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.032s both"/>
+<rect x="42" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.036s both"/>
+<rect x="42" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.04s both"/>
+<rect x="42" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.044s both"/>
+<rect x="56" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.04s both"/>
+<rect x="56" y="34" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.044s both"/>
+<rect x="56" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.048s both"/>
+<rect x="56" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.052s both"/>
+<rect x="56" y="76" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.056s both, glow 2.8s ease 0.34s infinite"/>
+<rect x="56" y="90" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.06s both"/>
+<rect x="56" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.064s both"/>
+<rect x="70" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.06s both"/>
+<rect x="70" y="34" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.064s both"/>
+<rect x="70" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.068s both"/>
+<rect x="70" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.072s both"/>
+<rect x="70" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.076s both"/>
+<rect x="70" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.08s both"/>
+<rect x="70" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.084s both"/>
+<rect x="84" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.08s both"/>
+<rect x="84" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.084s both"/>
+<rect x="84" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.088s both"/>
+<rect x="84" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.092s both"/>
+<rect x="84" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.096s both"/>
+<rect x="84" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.1s both"/>
+<rect x="84" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.104s both"/>
+<rect x="98" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.1s both"/>
+<rect x="98" y="34" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.104s both"/>
+<rect x="98" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.108s both"/>
+<rect x="98" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.112s both"/>
+<rect x="98" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.116s both"/>
+<rect x="98" y="90" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.12s both"/>
+<rect x="98" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.124s both"/>
+<rect x="112" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.12s both"/>
+<rect x="112" y="34" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.124s both"/>
+<rect x="112" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.128s both"/>
+<rect x="112" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.132s both"/>
+<rect x="112" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.136s both"/>
+<rect x="112" y="90" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.14s both, glow 2.8s ease 0.67s infinite"/>
+<rect x="112" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.144s both"/>
+<rect x="126" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.14s both"/>
+<rect x="126" y="34" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.144s both"/>
+<rect x="126" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.148s both"/>
+<rect x="126" y="62" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.152s both, glow 2.8s ease 0.64s infinite"/>
+<rect x="126" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.156s both"/>
+<rect x="126" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.16s both"/>
+<rect x="126" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.164s both"/>
+<rect x="140" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.16s both"/>
+<rect x="140" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.164s both"/>
+<rect x="140" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.168s both"/>
+<rect x="140" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.172s both"/>
+<rect x="140" y="76" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.176s both, glow 2.8s ease 0.76s infinite"/>
+<rect x="140" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.18s both"/>
+<rect x="140" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.184s both"/>
+<rect x="154" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.18s both"/>
+<rect x="154" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.184s both"/>
+<rect x="154" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.188s both"/>
+<rect x="154" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.192s both"/>
+<rect x="154" y="76" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.196s both, glow 2.8s ease 0.83s infinite"/>
+<rect x="154" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.2s both"/>
+<rect x="154" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.204s both"/>
+<rect x="168" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.2s both"/>
+<rect x="168" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.204s both"/>
+<rect x="168" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.208s both"/>
+<rect x="168" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.212s both"/>
+<rect x="168" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.216s both"/>
+<rect x="168" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.22s both"/>
+<rect x="168" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.224s both"/>
+<rect x="182" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.22s both"/>
+<rect x="182" y="34" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.224s both, glow 2.8s ease 0.82s infinite"/>
+<rect x="182" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.228s both"/>
+<rect x="182" y="62" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.232s both"/>
+<rect x="182" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.236s both"/>
+<rect x="182" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.24s both"/>
+<rect x="182" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.244s both"/>
+<rect x="196" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.24s both"/>
+<rect x="196" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.244s both"/>
+<rect x="196" y="48" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.248s both"/>
+<rect x="196" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.252s both"/>
+<rect x="196" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.256s both"/>
+<rect x="196" y="90" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.26s both"/>
+<rect x="196" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.264s both"/>
+<rect x="210" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.26s both"/>
+<rect x="210" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.264s both"/>
+<rect x="210" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.268s both, glow 2.8s ease 1.01s infinite"/>
+<rect x="210" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.272s both"/>
+<rect x="210" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.276s both"/>
+<rect x="210" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.28s both"/>
+<rect x="210" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.284s both"/>
+<rect x="224" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.28s both"/>
+<rect x="224" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.284s both"/>
+<rect x="224" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.288s both"/>
+<rect x="224" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.292s both"/>
+<rect x="224" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.296s both"/>
+<rect x="224" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.3s both"/>
+<rect x="224" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.304s both"/>
+<rect x="238" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.3s both"/>
+<rect x="238" y="34" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.304s both"/>
+<rect x="238" y="48" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.308s both"/>
+<rect x="238" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.312s both"/>
+<rect x="238" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.316s both"/>
+<rect x="238" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.32s both"/>
+<rect x="238" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.324s both"/>
+<rect x="252" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.32s both"/>
+<rect x="252" y="34" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.324s both"/>
+<rect x="252" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.328s both"/>
+<rect x="252" y="62" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.332s both, glow 2.8s ease 1.27s infinite"/>
+<rect x="252" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.336s both"/>
+<rect x="252" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.34s both"/>
+<rect x="252" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.344s both"/>
+<rect x="266" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.34s both"/>
+<rect x="266" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.344s both"/>
+<rect x="266" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.348s both"/>
+<rect x="266" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.352s both"/>
+<rect x="266" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.356s both"/>
+<rect x="266" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.36s both"/>
+<rect x="266" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.364s both"/>
+<rect x="280" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.36s both"/>
+<rect x="280" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.364s both"/>
+<rect x="280" y="48" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.368s both"/>
+<rect x="280" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.372s both"/>
+<rect x="280" y="76" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.376s both, glow 2.8s ease 1.46s infinite"/>
+<rect x="280" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.38s both"/>
+<rect x="280" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.384s both"/>
+<rect x="294" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.38s both"/>
+<rect x="294" y="34" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.384s both"/>
+<rect x="294" y="48" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.388s both"/>
+<rect x="294" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.392s both"/>
+<rect x="294" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.396s both"/>
+<rect x="294" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.4s both"/>
+<rect x="294" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.404s both"/>
+<rect x="308" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.4s both"/>
+<rect x="308" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.404s both"/>
+<rect x="308" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.408s both"/>
+<rect x="308" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.412s both"/>
+<rect x="308" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.416s both"/>
+<rect x="308" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.42s both"/>
+<rect x="308" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.424s both"/>
+<rect x="322" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.42s both"/>
+<rect x="322" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.424s both"/>
+<rect x="322" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.428s both"/>
+<rect x="322" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.432s both"/>
+<rect x="322" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.436s both"/>
+<rect x="322" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.44s both"/>
+<rect x="322" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.444s both"/>
+<rect x="336" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.44s both"/>
+<rect x="336" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.444s both"/>
+<rect x="336" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.448s both"/>
+<rect x="336" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.452s both"/>
+<rect x="336" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.456s both"/>
+<rect x="336" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.46s both"/>
+<rect x="336" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.464s both"/>
+<rect x="350" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.46s both"/>
+<rect x="350" y="34" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.464s both"/>
+<rect x="350" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.468s both, glow 2.8s ease 1.71s infinite"/>
+<rect x="350" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.472s both"/>
+<rect x="350" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.476s both"/>
+<rect x="350" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.48s both"/>
+<rect x="350" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.484s both"/>
+<rect x="364" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.48s both"/>
+<rect x="364" y="34" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.484s both"/>
+<rect x="364" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.488s both"/>
+<rect x="364" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.492s both"/>
+<rect x="364" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.496s both"/>
+<rect x="364" y="90" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.5s both, glow 2.8s ease 1.93s infinite"/>
+<rect x="364" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.504s both"/>
+<rect x="378" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.5s both"/>
+<rect x="378" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.504s both"/>
+<rect x="378" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.508s both"/>
+<rect x="378" y="62" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.512s both, glow 2.8s ease 1.9s infinite"/>
+<rect x="378" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.516s both"/>
+<rect x="378" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.52s both"/>
+<rect x="378" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.524s both"/>
+<rect x="392" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.52s both"/>
+<rect x="392" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.524s both"/>
+<rect x="392" y="48" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.528s both"/>
+<rect x="392" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.532s both"/>
+<rect x="392" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.536s both"/>
+<rect x="392" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.54s both"/>
+<rect x="392" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.544s both"/>
+<rect x="406" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.54s both"/>
+<rect x="406" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.544s both"/>
+<rect x="406" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.548s both, glow 2.8s ease 1.99s infinite"/>
+<rect x="406" y="62" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.552s both"/>
+<rect x="406" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.556s both"/>
+<rect x="406" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.56s both"/>
+<rect x="406" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.564s both"/>
+<rect x="420" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.56s both"/>
+<rect x="420" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.564s both"/>
+<rect x="420" y="48" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.568s both"/>
+<rect x="420" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.572s both"/>
+<rect x="420" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.576s both"/>
+<rect x="420" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.58s both"/>
+<rect x="420" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.584s both"/>
+<rect x="434" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.58s both"/>
+<rect x="434" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.584s both"/>
+<rect x="434" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.588s both"/>
+<rect x="434" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.592s both"/>
+<rect x="434" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.596s both"/>
+<rect x="434" y="90" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.6s both"/>
+<rect x="434" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.604s both"/>
+<rect x="448" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.6s both"/>
+<rect x="448" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.604s both"/>
+<rect x="448" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.608s both"/>
+<rect x="448" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.612s both"/>
+<rect x="448" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.616s both"/>
+<rect x="448" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.62s both"/>
+<rect x="448" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.624s both"/>
+<rect x="462" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.62s both"/>
+<rect x="462" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.624s both"/>
+<rect x="462" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.628s both"/>
+<rect x="462" y="62" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.632s both, glow 2.8s ease 2.32s infinite"/>
+<rect x="462" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.636s both"/>
+<rect x="462" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.64s both"/>
+<rect x="462" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.644s both"/>
+<rect x="476" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.64s both"/>
+<rect x="476" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.644s both"/>
+<rect x="476" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.648s both, glow 2.8s ease 2.34s infinite"/>
+<rect x="476" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.652s both"/>
+<rect x="476" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.656s both"/>
+<rect x="476" y="90" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.66s both"/>
+<rect x="476" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.664s both"/>
+<rect x="490" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.66s both"/>
+<rect x="490" y="34" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.664s both"/>
+<rect x="490" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.668s both"/>
+<rect x="490" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.672s both"/>
+<rect x="490" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.676s both"/>
+<rect x="490" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.68s both"/>
+<rect x="490" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.684s both"/>
+<rect x="504" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.68s both"/>
+<rect x="504" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.684s both"/>
+<rect x="504" y="48" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.688s both"/>
+<rect x="504" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.692s both"/>
+<rect x="504" y="76" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.696s both, glow 2.8s ease 2.58s infinite"/>
+<rect x="504" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.7s both"/>
+<rect x="504" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.704s both"/>
+<rect x="518" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.7s both"/>
+<rect x="518" y="34" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.704s both"/>
+<rect x="518" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.708s both, glow 2.8s ease 2.55s infinite"/>
+<rect x="518" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.712s both"/>
+<rect x="518" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.716s both"/>
+<rect x="518" y="90" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.72s both, glow 2.8s ease 2.7s infinite"/>
+<rect x="518" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.724s both"/>
+<rect x="532" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.72s both"/>
+<rect x="532" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.724s both"/>
+<rect x="532" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.728s both"/>
+<rect x="532" y="62" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.732s both"/>
+<rect x="532" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.736s both"/>
+<rect x="532" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.74s both"/>
+<rect x="532" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.744s both"/>
+<rect x="546" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.74s both"/>
+<rect x="546" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.744s both"/>
+<rect x="546" y="48" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.748s both"/>
+<rect x="546" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.752s both"/>
+<rect x="546" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.756s both"/>
+<rect x="546" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.76s both"/>
+<rect x="546" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.764s both"/>
+<rect x="560" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.76s both"/>
+<rect x="560" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.764s both"/>
+<rect x="560" y="48" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.768s both"/>
+<rect x="560" y="62" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.772s both, glow 2.8s ease 2.81s infinite"/>
+<rect x="560" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.776s both"/>
+<rect x="560" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.78s both"/>
+<rect x="560" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.784s both"/>
+<rect x="574" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.78s both"/>
+<rect x="574" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.784s both"/>
+<rect x="574" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.788s both"/>
+<rect x="574" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.792s both"/>
+<rect x="574" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.796s both"/>
+<rect x="574" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.8s both"/>
+<rect x="574" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.804s both"/>
+<rect x="588" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.8s both"/>
+<rect x="588" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.804s both"/>
+<rect x="588" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.808s both"/>
+<rect x="588" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.812s both"/>
+<rect x="588" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.816s both"/>
+<rect x="588" y="90" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.82s both"/>
+<rect x="588" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.824s both"/>
+<rect x="602" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.82s both"/>
+<rect x="602" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.824s both"/>
+<rect x="602" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.828s both"/>
+<rect x="602" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.832s both"/>
+<rect x="602" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.836s both"/>
+<rect x="602" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.84s both"/>
+<rect x="602" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.844s both"/>
+<rect x="616" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.84s both"/>
+<rect x="616" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.844s both"/>
+<rect x="616" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.848s both"/>
+<rect x="616" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.852s both"/>
+<rect x="616" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.856s both"/>
+<rect x="616" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.86s both"/>
+<rect x="616" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.864s both"/>
+<rect x="630" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.86s both"/>
+<rect x="630" y="34" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.864s both"/>
+<rect x="630" y="48" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.868s both"/>
+<rect x="630" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.872s both"/>
+<rect x="630" y="76" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 0.876s both, glow 2.8s ease 3.21s infinite"/>
+<rect x="630" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.88s both"/>
+<rect x="630" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.884s both"/>
+<rect x="644" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.88s both"/>
+<rect x="644" y="34" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.884s both"/>
+<rect x="644" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.888s both"/>
+<rect x="644" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.892s both"/>
+<rect x="644" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.896s both"/>
+<rect x="644" y="90" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.9s both"/>
+<rect x="644" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.904s both"/>
+<rect x="658" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.9s both"/>
+<rect x="658" y="34" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.904s both"/>
+<rect x="658" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.908s both"/>
+<rect x="658" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.912s both"/>
+<rect x="658" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.916s both"/>
+<rect x="658" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.92s both"/>
+<rect x="658" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.924s both"/>
+<rect x="672" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.92s both"/>
+<rect x="672" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.924s both"/>
+<rect x="672" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.928s both"/>
+<rect x="672" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.932s both"/>
+<rect x="672" y="76" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.936s both"/>
+<rect x="672" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.94s both"/>
+<rect x="672" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.944s both"/>
+<rect x="686" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.94s both"/>
+<rect x="686" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.944s both"/>
+<rect x="686" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.948s both"/>
+<rect x="686" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.952s both"/>
+<rect x="686" y="76" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 0.956s both"/>
+<rect x="686" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.96s both"/>
+<rect x="686" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.964s both"/>
+<rect x="700" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.96s both"/>
+<rect x="700" y="34" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.964s both"/>
+<rect x="700" y="48" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.968s both"/>
+<rect x="700" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.972s both"/>
+<rect x="700" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 0.976s both"/>
+<rect x="700" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.98s both"/>
+<rect x="700" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.984s both"/>
+<rect x="714" y="20" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.98s both"/>
+<rect x="714" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.984s both"/>
+<rect x="714" y="48" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.988s both"/>
+<rect x="714" y="62" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 0.992s both"/>
+<rect x="714" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 0.996s both"/>
+<rect x="714" y="90" width="11" height="11" rx="2" fill="#6b4e12" style="animation: pop 0.35s ease 1.0s both"/>
+<rect x="714" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.004s both"/>
+<rect x="728" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.0s both"/>
+<rect x="728" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.004s both"/>
+<rect x="728" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 1.008s both, glow 2.8s ease 3.6s infinite"/>
+<rect x="728" y="62" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 1.012s both, glow 2.8s ease 3.65s infinite"/>
+<rect x="728" y="76" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 1.016s both"/>
+<rect x="728" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.02s both"/>
+<rect x="728" y="104" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.024s both"/>
+<rect x="742" y="20" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.02s both"/>
+<rect x="742" y="34" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.024s both"/>
+<rect x="742" y="48" width="11" height="11" rx="2" fill="#e8c97e" style="animation: pop 0.35s ease 1.028s both, glow 2.8s ease 3.67s infinite"/>
+<rect x="742" y="62" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 1.032s both"/>
+<rect x="742" y="76" width="11" height="11" rx="2" fill="#b07e1e" style="animation: pop 0.35s ease 1.036s both"/>
+<rect x="742" y="90" width="11" height="11" rx="2" fill="#1c2030" style="animation: pop 0.35s ease 1.04s both"/>
+<rect x="742" y="104" width="11" height="11" rx="2" fill="#3d2e0a" style="animation: pop 0.35s ease 1.044s both"/>
+<text x="629" y="146" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590" text-anchor="end">less</text>
+<rect x="633" y="137" width="11" height="11" rx="2" fill="#1c2030"/>
+<rect x="648" y="137" width="11" height="11" rx="2" fill="#3d2e0a"/>
+<rect x="663" y="137" width="11" height="11" rx="2" fill="#6b4e12"/>
+<rect x="678" y="137" width="11" height="11" rx="2" fill="#b07e1e"/>
+<rect x="693" y="137" width="11" height="11" rx="2" fill="#e8c97e"/>
+<text x="708" y="146" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">more</text>
+</svg>
