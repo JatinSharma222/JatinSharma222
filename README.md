@@ -117,17 +117,6 @@ const jatin = {
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JatinSharma222&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0f14&title_color=e8c97e&text_color=7d8590&icon_color=e8c97e)
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=JatinSharma222&theme=dark&hide_border=true&background=0d0f14&ring=e8c97e&fire=e8c97e&currStreakLabel=e8c97e&sideLabels=7d8590&dates=7d8590&sideNums=c9d1d9&currStreakNum=c9d1d9)
-
-</div>
 
 <div align="center">
 
