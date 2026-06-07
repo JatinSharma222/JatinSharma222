@@ -1,1476 +1,1477 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 148" width="760" height="148">
 <rect width="760" height="148" fill="#0d0f14"/>
 <text x="28" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Jun</text>
-<text x="98" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Jul</text>
-<text x="154" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Aug</text>
-<text x="210" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Sep</text>
-<text x="280" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Oct</text>
-<text x="336" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Nov</text>
-<text x="392" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Dec</text>
-<text x="462" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Jan</text>
-<text x="518" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Feb</text>
-<text x="574" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Mar</text>
-<text x="644" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Apr</text>
-<text x="700" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">May</text>
+<text x="84" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Jul</text>
+<text x="140" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Aug</text>
+<text x="196" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Sep</text>
+<text x="266" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Oct</text>
+<text x="322" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Nov</text>
+<text x="378" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Dec</text>
+<text x="448" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Jan</text>
+<text x="504" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Feb</text>
+<text x="560" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Mar</text>
+<text x="630" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Apr</text>
+<text x="686" y="11" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">May</text>
 <text x="0" y="44" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Mon</text>
 <text x="0" y="72" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Wed</text>
 <text x="0" y="100" font-family="'SF Mono','Fira Code',monospace" font-size="9" fill="#7d8590">Fri</text>
 <rect x="28" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 02, 2025</title>
+  <title>No contributions on Jun 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.0s" fill="freeze"/>
 </rect>
 <rect x="28" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 03, 2025</title>
+  <title>No contributions on Jun 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.004s" fill="freeze"/>
 </rect>
-<rect x="28" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>4 contributions on Jun 04, 2025</title>
+<rect x="28" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Jun 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.008s" fill="freeze"/>
 </rect>
 <rect x="28" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 05, 2025</title>
+  <title>No contributions on Jun 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.012s" fill="freeze"/>
 </rect>
 <rect x="28" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 06, 2025</title>
+  <title>No contributions on Jun 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.016s" fill="freeze"/>
 </rect>
 <rect x="28" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 07, 2025</title>
+  <title>No contributions on Jun 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.02s" fill="freeze"/>
 </rect>
 <rect x="28" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 08, 2025</title>
+  <title>No contributions on Jun 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.024s" fill="freeze"/>
 </rect>
 <rect x="42" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 09, 2025</title>
+  <title>No contributions on Jun 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.018s" fill="freeze"/>
 </rect>
 <rect x="42" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 10, 2025</title>
+  <title>No contributions on Jun 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.022s" fill="freeze"/>
 </rect>
 <rect x="42" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 11, 2025</title>
+  <title>No contributions on Jun 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.026s" fill="freeze"/>
 </rect>
 <rect x="42" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 12, 2025</title>
+  <title>No contributions on Jun 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.03s" fill="freeze"/>
 </rect>
 <rect x="42" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 13, 2025</title>
+  <title>No contributions on Jun 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.034s" fill="freeze"/>
 </rect>
 <rect x="42" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 14, 2025</title>
+  <title>No contributions on Jun 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.038s" fill="freeze"/>
 </rect>
 <rect x="42" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 15, 2025</title>
+  <title>No contributions on Jun 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.042s" fill="freeze"/>
 </rect>
 <rect x="56" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 16, 2025</title>
+  <title>No contributions on Jun 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.036s" fill="freeze"/>
 </rect>
 <rect x="56" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 17, 2025</title>
+  <title>No contributions on Jun 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.04s" fill="freeze"/>
 </rect>
 <rect x="56" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 18, 2025</title>
+  <title>No contributions on Jun 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.044s" fill="freeze"/>
 </rect>
 <rect x="56" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 19, 2025</title>
+  <title>No contributions on Jun 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.048s" fill="freeze"/>
 </rect>
 <rect x="56" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 20, 2025</title>
+  <title>No contributions on Jun 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.052s" fill="freeze"/>
 </rect>
 <rect x="56" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 21, 2025</title>
+  <title>No contributions on Jun 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.056s" fill="freeze"/>
 </rect>
 <rect x="56" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 22, 2025</title>
+  <title>No contributions on Jun 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.06s" fill="freeze"/>
 </rect>
 <rect x="70" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 23, 2025</title>
+  <title>No contributions on Jun 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.054s" fill="freeze"/>
 </rect>
 <rect x="70" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 24, 2025</title>
+  <title>No contributions on Jul 01, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.058s" fill="freeze"/>
 </rect>
 <rect x="70" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 25, 2025</title>
+  <title>No contributions on Jul 02, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.062s" fill="freeze"/>
 </rect>
 <rect x="70" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 26, 2025</title>
+  <title>No contributions on Jul 03, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.066s" fill="freeze"/>
 </rect>
 <rect x="70" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 27, 2025</title>
+  <title>No contributions on Jul 04, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.07s" fill="freeze"/>
 </rect>
 <rect x="70" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 28, 2025</title>
+  <title>No contributions on Jul 05, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.074s" fill="freeze"/>
 </rect>
 <rect x="70" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 29, 2025</title>
+  <title>No contributions on Jul 06, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.078s" fill="freeze"/>
 </rect>
 <rect x="84" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jun 30, 2025</title>
+  <title>No contributions on Jul 07, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.072s" fill="freeze"/>
 </rect>
 <rect x="84" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 01, 2025</title>
+  <title>No contributions on Jul 08, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.076s" fill="freeze"/>
 </rect>
 <rect x="84" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 02, 2025</title>
+  <title>No contributions on Jul 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.08s" fill="freeze"/>
 </rect>
 <rect x="84" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 03, 2025</title>
+  <title>No contributions on Jul 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.084s" fill="freeze"/>
 </rect>
 <rect x="84" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 04, 2025</title>
+  <title>No contributions on Jul 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.088s" fill="freeze"/>
 </rect>
 <rect x="84" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 05, 2025</title>
+  <title>No contributions on Jul 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.092s" fill="freeze"/>
 </rect>
 <rect x="84" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 06, 2025</title>
+  <title>No contributions on Jul 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.096s" fill="freeze"/>
 </rect>
 <rect x="98" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 07, 2025</title>
+  <title>No contributions on Jul 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.09s" fill="freeze"/>
 </rect>
 <rect x="98" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 08, 2025</title>
+  <title>No contributions on Jul 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.094s" fill="freeze"/>
 </rect>
 <rect x="98" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 09, 2025</title>
+  <title>No contributions on Jul 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.098s" fill="freeze"/>
 </rect>
 <rect x="98" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 10, 2025</title>
+  <title>No contributions on Jul 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.102s" fill="freeze"/>
 </rect>
 <rect x="98" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 11, 2025</title>
+  <title>No contributions on Jul 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.106s" fill="freeze"/>
 </rect>
 <rect x="98" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 12, 2025</title>
+  <title>No contributions on Jul 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.11s" fill="freeze"/>
 </rect>
 <rect x="98" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 13, 2025</title>
+  <title>No contributions on Jul 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.114s" fill="freeze"/>
 </rect>
 <rect x="112" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 14, 2025</title>
+  <title>No contributions on Jul 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.108s" fill="freeze"/>
 </rect>
 <rect x="112" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 15, 2025</title>
+  <title>No contributions on Jul 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.112s" fill="freeze"/>
 </rect>
 <rect x="112" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 16, 2025</title>
+  <title>No contributions on Jul 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.116s" fill="freeze"/>
 </rect>
 <rect x="112" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 17, 2025</title>
+  <title>No contributions on Jul 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.12s" fill="freeze"/>
 </rect>
 <rect x="112" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 18, 2025</title>
+  <title>No contributions on Jul 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.124s" fill="freeze"/>
 </rect>
 <rect x="112" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 19, 2025</title>
+  <title>No contributions on Jul 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.128s" fill="freeze"/>
 </rect>
 <rect x="112" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 20, 2025</title>
+  <title>No contributions on Jul 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.132s" fill="freeze"/>
 </rect>
 <rect x="126" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 21, 2025</title>
+  <title>No contributions on Jul 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.126s" fill="freeze"/>
 </rect>
 <rect x="126" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 22, 2025</title>
+  <title>No contributions on Jul 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.13s" fill="freeze"/>
 </rect>
 <rect x="126" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 23, 2025</title>
+  <title>No contributions on Jul 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.134s" fill="freeze"/>
 </rect>
 <rect x="126" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 24, 2025</title>
+  <title>No contributions on Jul 31, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.138s" fill="freeze"/>
 </rect>
 <rect x="126" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 25, 2025</title>
+  <title>No contributions on Aug 01, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.142s" fill="freeze"/>
 </rect>
 <rect x="126" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 26, 2025</title>
+  <title>No contributions on Aug 02, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.146s" fill="freeze"/>
 </rect>
 <rect x="126" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 27, 2025</title>
+  <title>No contributions on Aug 03, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.15s" fill="freeze"/>
 </rect>
 <rect x="140" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 28, 2025</title>
+  <title>No contributions on Aug 04, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.144s" fill="freeze"/>
 </rect>
 <rect x="140" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 29, 2025</title>
+  <title>No contributions on Aug 05, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.148s" fill="freeze"/>
 </rect>
 <rect x="140" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 30, 2025</title>
+  <title>No contributions on Aug 06, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.152s" fill="freeze"/>
 </rect>
 <rect x="140" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jul 31, 2025</title>
+  <title>No contributions on Aug 07, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.156s" fill="freeze"/>
 </rect>
 <rect x="140" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 01, 2025</title>
+  <title>No contributions on Aug 08, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.16s" fill="freeze"/>
 </rect>
 <rect x="140" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 02, 2025</title>
+  <title>No contributions on Aug 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.164s" fill="freeze"/>
 </rect>
 <rect x="140" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 03, 2025</title>
+  <title>No contributions on Aug 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.168s" fill="freeze"/>
 </rect>
 <rect x="154" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 04, 2025</title>
+  <title>No contributions on Aug 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.162s" fill="freeze"/>
 </rect>
 <rect x="154" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 05, 2025</title>
+  <title>No contributions on Aug 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.166s" fill="freeze"/>
 </rect>
 <rect x="154" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 06, 2025</title>
+  <title>No contributions on Aug 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.17s" fill="freeze"/>
 </rect>
 <rect x="154" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 07, 2025</title>
+  <title>No contributions on Aug 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.174s" fill="freeze"/>
 </rect>
 <rect x="154" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 08, 2025</title>
+  <title>No contributions on Aug 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.178s" fill="freeze"/>
 </rect>
 <rect x="154" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 09, 2025</title>
+  <title>No contributions on Aug 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.182s" fill="freeze"/>
 </rect>
 <rect x="154" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 10, 2025</title>
+  <title>No contributions on Aug 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.186s" fill="freeze"/>
 </rect>
 <rect x="168" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 11, 2025</title>
+  <title>No contributions on Aug 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.18s" fill="freeze"/>
 </rect>
 <rect x="168" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 12, 2025</title>
+  <title>No contributions on Aug 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.184s" fill="freeze"/>
 </rect>
 <rect x="168" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 13, 2025</title>
+  <title>No contributions on Aug 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.188s" fill="freeze"/>
 </rect>
 <rect x="168" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 14, 2025</title>
+  <title>No contributions on Aug 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.192s" fill="freeze"/>
 </rect>
 <rect x="168" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 15, 2025</title>
+  <title>No contributions on Aug 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.196s" fill="freeze"/>
 </rect>
 <rect x="168" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 16, 2025</title>
+  <title>No contributions on Aug 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.2s" fill="freeze"/>
 </rect>
 <rect x="168" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 17, 2025</title>
+  <title>No contributions on Aug 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.204s" fill="freeze"/>
 </rect>
 <rect x="182" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 18, 2025</title>
+  <title>No contributions on Aug 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.198s" fill="freeze"/>
 </rect>
 <rect x="182" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 19, 2025</title>
+  <title>No contributions on Aug 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.202s" fill="freeze"/>
 </rect>
 <rect x="182" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 20, 2025</title>
+  <title>No contributions on Aug 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.206s" fill="freeze"/>
 </rect>
 <rect x="182" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 21, 2025</title>
+  <title>No contributions on Aug 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.21s" fill="freeze"/>
 </rect>
 <rect x="182" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 22, 2025</title>
+  <title>No contributions on Aug 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.214s" fill="freeze"/>
 </rect>
 <rect x="182" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 23, 2025</title>
+  <title>No contributions on Aug 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.218s" fill="freeze"/>
 </rect>
 <rect x="182" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 24, 2025</title>
+  <title>No contributions on Aug 31, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.222s" fill="freeze"/>
 </rect>
 <rect x="196" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 25, 2025</title>
+  <title>No contributions on Sep 01, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.216s" fill="freeze"/>
 </rect>
 <rect x="196" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 26, 2025</title>
+  <title>No contributions on Sep 02, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.22s" fill="freeze"/>
 </rect>
 <rect x="196" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 27, 2025</title>
+  <title>No contributions on Sep 03, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.224s" fill="freeze"/>
 </rect>
 <rect x="196" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 28, 2025</title>
+  <title>No contributions on Sep 04, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.228s" fill="freeze"/>
 </rect>
 <rect x="196" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 29, 2025</title>
+  <title>No contributions on Sep 05, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.232s" fill="freeze"/>
 </rect>
 <rect x="196" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 30, 2025</title>
+  <title>No contributions on Sep 06, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.236s" fill="freeze"/>
 </rect>
 <rect x="196" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Aug 31, 2025</title>
+  <title>No contributions on Sep 07, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.24s" fill="freeze"/>
 </rect>
 <rect x="210" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 01, 2025</title>
+  <title>No contributions on Sep 08, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.234s" fill="freeze"/>
 </rect>
 <rect x="210" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 02, 2025</title>
+  <title>No contributions on Sep 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.238s" fill="freeze"/>
 </rect>
 <rect x="210" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 03, 2025</title>
+  <title>No contributions on Sep 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.242s" fill="freeze"/>
 </rect>
 <rect x="210" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 04, 2025</title>
+  <title>No contributions on Sep 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.246s" fill="freeze"/>
 </rect>
 <rect x="210" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 05, 2025</title>
+  <title>No contributions on Sep 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.25s" fill="freeze"/>
 </rect>
 <rect x="210" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 06, 2025</title>
+  <title>No contributions on Sep 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.254s" fill="freeze"/>
 </rect>
 <rect x="210" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 07, 2025</title>
+  <title>No contributions on Sep 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.258s" fill="freeze"/>
 </rect>
 <rect x="224" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 08, 2025</title>
+  <title>No contributions on Sep 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.252s" fill="freeze"/>
 </rect>
 <rect x="224" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 09, 2025</title>
+  <title>No contributions on Sep 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.256s" fill="freeze"/>
 </rect>
 <rect x="224" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 10, 2025</title>
+  <title>No contributions on Sep 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.26s" fill="freeze"/>
 </rect>
 <rect x="224" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 11, 2025</title>
+  <title>No contributions on Sep 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.264s" fill="freeze"/>
 </rect>
 <rect x="224" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 12, 2025</title>
+  <title>No contributions on Sep 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.268s" fill="freeze"/>
 </rect>
 <rect x="224" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 13, 2025</title>
+  <title>No contributions on Sep 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.272s" fill="freeze"/>
 </rect>
 <rect x="224" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 14, 2025</title>
+  <title>No contributions on Sep 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.276s" fill="freeze"/>
 </rect>
 <rect x="238" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 15, 2025</title>
+  <title>No contributions on Sep 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.27s" fill="freeze"/>
 </rect>
 <rect x="238" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 16, 2025</title>
+  <title>No contributions on Sep 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.274s" fill="freeze"/>
 </rect>
 <rect x="238" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 17, 2025</title>
+  <title>No contributions on Sep 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.278s" fill="freeze"/>
 </rect>
 <rect x="238" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 18, 2025</title>
+  <title>No contributions on Sep 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.282s" fill="freeze"/>
 </rect>
 <rect x="238" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 19, 2025</title>
+  <title>No contributions on Sep 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.286s" fill="freeze"/>
 </rect>
 <rect x="238" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 20, 2025</title>
+  <title>No contributions on Sep 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.29s" fill="freeze"/>
 </rect>
 <rect x="238" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 21, 2025</title>
+  <title>No contributions on Sep 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.294s" fill="freeze"/>
 </rect>
 <rect x="252" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 22, 2025</title>
+  <title>No contributions on Sep 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.288s" fill="freeze"/>
 </rect>
 <rect x="252" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 23, 2025</title>
+  <title>No contributions on Sep 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.292s" fill="freeze"/>
 </rect>
 <rect x="252" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 24, 2025</title>
+  <title>No contributions on Oct 01, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.296s" fill="freeze"/>
 </rect>
 <rect x="252" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 25, 2025</title>
+  <title>No contributions on Oct 02, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.3s" fill="freeze"/>
 </rect>
 <rect x="252" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 26, 2025</title>
+  <title>No contributions on Oct 03, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.304s" fill="freeze"/>
 </rect>
 <rect x="252" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 27, 2025</title>
+  <title>No contributions on Oct 04, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.308s" fill="freeze"/>
 </rect>
 <rect x="252" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 28, 2025</title>
+  <title>No contributions on Oct 05, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.312s" fill="freeze"/>
 </rect>
 <rect x="266" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 29, 2025</title>
+  <title>No contributions on Oct 06, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.306s" fill="freeze"/>
 </rect>
 <rect x="266" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Sep 30, 2025</title>
+  <title>No contributions on Oct 07, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.31s" fill="freeze"/>
 </rect>
 <rect x="266" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 01, 2025</title>
+  <title>No contributions on Oct 08, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.314s" fill="freeze"/>
 </rect>
 <rect x="266" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 02, 2025</title>
+  <title>No contributions on Oct 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.318s" fill="freeze"/>
 </rect>
 <rect x="266" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 03, 2025</title>
+  <title>No contributions on Oct 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.322s" fill="freeze"/>
 </rect>
 <rect x="266" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 04, 2025</title>
+  <title>No contributions on Oct 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.326s" fill="freeze"/>
 </rect>
 <rect x="266" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 05, 2025</title>
+  <title>No contributions on Oct 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.33s" fill="freeze"/>
 </rect>
 <rect x="280" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 06, 2025</title>
+  <title>No contributions on Oct 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.324s" fill="freeze"/>
 </rect>
 <rect x="280" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 07, 2025</title>
+  <title>No contributions on Oct 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.328s" fill="freeze"/>
 </rect>
 <rect x="280" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 08, 2025</title>
+  <title>No contributions on Oct 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.332s" fill="freeze"/>
 </rect>
 <rect x="280" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 09, 2025</title>
+  <title>No contributions on Oct 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.336s" fill="freeze"/>
 </rect>
 <rect x="280" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 10, 2025</title>
+  <title>No contributions on Oct 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.34s" fill="freeze"/>
 </rect>
 <rect x="280" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 11, 2025</title>
+  <title>No contributions on Oct 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.344s" fill="freeze"/>
 </rect>
 <rect x="280" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 12, 2025</title>
+  <title>No contributions on Oct 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.348s" fill="freeze"/>
 </rect>
 <rect x="294" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 13, 2025</title>
+  <title>No contributions on Oct 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.342s" fill="freeze"/>
 </rect>
 <rect x="294" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 14, 2025</title>
+  <title>No contributions on Oct 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.346s" fill="freeze"/>
 </rect>
 <rect x="294" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 15, 2025</title>
+  <title>No contributions on Oct 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.35s" fill="freeze"/>
 </rect>
 <rect x="294" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 16, 2025</title>
+  <title>No contributions on Oct 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.354s" fill="freeze"/>
 </rect>
 <rect x="294" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 17, 2025</title>
+  <title>No contributions on Oct 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.358s" fill="freeze"/>
 </rect>
 <rect x="294" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 18, 2025</title>
+  <title>No contributions on Oct 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.362s" fill="freeze"/>
 </rect>
 <rect x="294" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 19, 2025</title>
+  <title>No contributions on Oct 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.366s" fill="freeze"/>
 </rect>
 <rect x="308" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 20, 2025</title>
+  <title>No contributions on Oct 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.36s" fill="freeze"/>
 </rect>
 <rect x="308" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 21, 2025</title>
+  <title>No contributions on Oct 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.364s" fill="freeze"/>
 </rect>
 <rect x="308" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 22, 2025</title>
+  <title>No contributions on Oct 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.368s" fill="freeze"/>
 </rect>
 <rect x="308" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 23, 2025</title>
+  <title>No contributions on Oct 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.372s" fill="freeze"/>
 </rect>
 <rect x="308" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 24, 2025</title>
+  <title>No contributions on Oct 31, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.376s" fill="freeze"/>
 </rect>
 <rect x="308" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 25, 2025</title>
+  <title>No contributions on Nov 01, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.38s" fill="freeze"/>
 </rect>
 <rect x="308" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 26, 2025</title>
+  <title>No contributions on Nov 02, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.384s" fill="freeze"/>
 </rect>
 <rect x="322" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 27, 2025</title>
+  <title>No contributions on Nov 03, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.378s" fill="freeze"/>
 </rect>
 <rect x="322" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 28, 2025</title>
+  <title>No contributions on Nov 04, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.382s" fill="freeze"/>
 </rect>
 <rect x="322" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 29, 2025</title>
+  <title>No contributions on Nov 05, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.386s" fill="freeze"/>
 </rect>
 <rect x="322" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 30, 2025</title>
+  <title>No contributions on Nov 06, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.39s" fill="freeze"/>
 </rect>
 <rect x="322" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Oct 31, 2025</title>
+  <title>No contributions on Nov 07, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.394s" fill="freeze"/>
 </rect>
 <rect x="322" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 01, 2025</title>
+  <title>No contributions on Nov 08, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.398s" fill="freeze"/>
 </rect>
 <rect x="322" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 02, 2025</title>
+  <title>No contributions on Nov 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.402s" fill="freeze"/>
 </rect>
 <rect x="336" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 03, 2025</title>
+  <title>No contributions on Nov 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.396s" fill="freeze"/>
 </rect>
 <rect x="336" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 04, 2025</title>
+  <title>No contributions on Nov 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.4s" fill="freeze"/>
 </rect>
 <rect x="336" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 05, 2025</title>
+  <title>No contributions on Nov 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.404s" fill="freeze"/>
 </rect>
 <rect x="336" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 06, 2025</title>
+  <title>No contributions on Nov 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.408s" fill="freeze"/>
 </rect>
 <rect x="336" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 07, 2025</title>
+  <title>No contributions on Nov 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.412s" fill="freeze"/>
 </rect>
 <rect x="336" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 08, 2025</title>
+  <title>No contributions on Nov 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.416s" fill="freeze"/>
 </rect>
 <rect x="336" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 09, 2025</title>
+  <title>No contributions on Nov 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.42s" fill="freeze"/>
 </rect>
 <rect x="350" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 10, 2025</title>
+  <title>No contributions on Nov 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.414s" fill="freeze"/>
 </rect>
 <rect x="350" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 11, 2025</title>
+  <title>No contributions on Nov 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.418s" fill="freeze"/>
 </rect>
 <rect x="350" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 12, 2025</title>
+  <title>No contributions on Nov 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.422s" fill="freeze"/>
 </rect>
 <rect x="350" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 13, 2025</title>
+  <title>No contributions on Nov 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.426s" fill="freeze"/>
 </rect>
 <rect x="350" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 14, 2025</title>
+  <title>No contributions on Nov 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.43s" fill="freeze"/>
 </rect>
 <rect x="350" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 15, 2025</title>
+  <title>No contributions on Nov 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.434s" fill="freeze"/>
 </rect>
 <rect x="350" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 16, 2025</title>
+  <title>No contributions on Nov 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.438s" fill="freeze"/>
 </rect>
 <rect x="364" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 17, 2025</title>
+  <title>No contributions on Nov 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.432s" fill="freeze"/>
 </rect>
 <rect x="364" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 18, 2025</title>
+  <title>No contributions on Nov 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.436s" fill="freeze"/>
 </rect>
 <rect x="364" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 19, 2025</title>
+  <title>No contributions on Nov 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.44s" fill="freeze"/>
 </rect>
 <rect x="364" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 20, 2025</title>
+  <title>No contributions on Nov 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.444s" fill="freeze"/>
 </rect>
 <rect x="364" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 21, 2025</title>
+  <title>No contributions on Nov 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.448s" fill="freeze"/>
 </rect>
 <rect x="364" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 22, 2025</title>
+  <title>No contributions on Nov 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.452s" fill="freeze"/>
 </rect>
 <rect x="364" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 23, 2025</title>
+  <title>No contributions on Nov 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.456s" fill="freeze"/>
 </rect>
-<rect x="378" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 24, 2025</title>
+<rect x="378" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Dec 01, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.45s" fill="freeze"/>
 </rect>
 <rect x="378" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 25, 2025</title>
+  <title>No contributions on Dec 02, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.454s" fill="freeze"/>
 </rect>
 <rect x="378" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 26, 2025</title>
+  <title>No contributions on Dec 03, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.458s" fill="freeze"/>
 </rect>
 <rect x="378" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 27, 2025</title>
+  <title>No contributions on Dec 04, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.462s" fill="freeze"/>
 </rect>
 <rect x="378" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 28, 2025</title>
+  <title>No contributions on Dec 05, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.466s" fill="freeze"/>
 </rect>
 <rect x="378" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 29, 2025</title>
+  <title>No contributions on Dec 06, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.47s" fill="freeze"/>
 </rect>
 <rect x="378" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Nov 30, 2025</title>
+  <title>No contributions on Dec 07, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.474s" fill="freeze"/>
 </rect>
-<rect x="392" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Dec 01, 2025</title>
+<rect x="392" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Dec 08, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.468s" fill="freeze"/>
 </rect>
 <rect x="392" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 02, 2025</title>
+  <title>No contributions on Dec 09, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.472s" fill="freeze"/>
 </rect>
 <rect x="392" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 03, 2025</title>
+  <title>No contributions on Dec 10, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.476s" fill="freeze"/>
 </rect>
 <rect x="392" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 04, 2025</title>
+  <title>No contributions on Dec 11, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.48s" fill="freeze"/>
 </rect>
 <rect x="392" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 05, 2025</title>
+  <title>No contributions on Dec 12, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.484s" fill="freeze"/>
 </rect>
 <rect x="392" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 06, 2025</title>
+  <title>No contributions on Dec 13, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.488s" fill="freeze"/>
 </rect>
 <rect x="392" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 07, 2025</title>
+  <title>No contributions on Dec 14, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.492s" fill="freeze"/>
 </rect>
 <rect x="406" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 08, 2025</title>
+  <title>No contributions on Dec 15, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.486s" fill="freeze"/>
 </rect>
 <rect x="406" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 09, 2025</title>
+  <title>No contributions on Dec 16, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.49s" fill="freeze"/>
 </rect>
 <rect x="406" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 10, 2025</title>
+  <title>No contributions on Dec 17, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.494s" fill="freeze"/>
 </rect>
 <rect x="406" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 11, 2025</title>
+  <title>No contributions on Dec 18, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.498s" fill="freeze"/>
 </rect>
 <rect x="406" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 12, 2025</title>
+  <title>No contributions on Dec 19, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.502s" fill="freeze"/>
 </rect>
 <rect x="406" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 13, 2025</title>
+  <title>No contributions on Dec 20, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.506s" fill="freeze"/>
 </rect>
 <rect x="406" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 14, 2025</title>
+  <title>No contributions on Dec 21, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.51s" fill="freeze"/>
 </rect>
 <rect x="420" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 15, 2025</title>
+  <title>No contributions on Dec 22, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.504s" fill="freeze"/>
 </rect>
 <rect x="420" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 16, 2025</title>
+  <title>No contributions on Dec 23, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.508s" fill="freeze"/>
 </rect>
 <rect x="420" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 17, 2025</title>
+  <title>No contributions on Dec 24, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.512s" fill="freeze"/>
 </rect>
 <rect x="420" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 18, 2025</title>
+  <title>No contributions on Dec 25, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.516s" fill="freeze"/>
 </rect>
-<rect x="420" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 19, 2025</title>
+<rect x="420" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Dec 26, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.52s" fill="freeze"/>
 </rect>
-<rect x="420" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 20, 2025</title>
+<rect x="420" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Dec 27, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.524s" fill="freeze"/>
 </rect>
 <rect x="420" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 21, 2025</title>
+  <title>No contributions on Dec 28, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.528s" fill="freeze"/>
 </rect>
 <rect x="434" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 22, 2025</title>
+  <title>No contributions on Dec 29, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.522s" fill="freeze"/>
 </rect>
 <rect x="434" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 23, 2025</title>
+  <title>No contributions on Dec 30, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.526s" fill="freeze"/>
 </rect>
 <rect x="434" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 24, 2025</title>
+  <title>No contributions on Dec 31, 2025</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.53s" fill="freeze"/>
 </rect>
 <rect x="434" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 25, 2025</title>
+  <title>No contributions on Jan 01, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.534s" fill="freeze"/>
 </rect>
-<rect x="434" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Dec 26, 2025</title>
+<rect x="434" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Jan 02, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.538s" fill="freeze"/>
 </rect>
 <rect x="434" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Dec 27, 2025</title>
+  <title>1 contribution on Jan 03, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.542s" fill="freeze"/>
 </rect>
 <rect x="434" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 28, 2025</title>
+  <title>No contributions on Jan 04, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.546s" fill="freeze"/>
 </rect>
 <rect x="448" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 29, 2025</title>
+  <title>No contributions on Jan 05, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.54s" fill="freeze"/>
 </rect>
 <rect x="448" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 30, 2025</title>
+  <title>No contributions on Jan 06, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.544s" fill="freeze"/>
 </rect>
 <rect x="448" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Dec 31, 2025</title>
+  <title>No contributions on Jan 07, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.548s" fill="freeze"/>
 </rect>
 <rect x="448" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 01, 2026</title>
+  <title>No contributions on Jan 08, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.552s" fill="freeze"/>
 </rect>
 <rect x="448" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 02, 2026</title>
+  <title>No contributions on Jan 09, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.556s" fill="freeze"/>
 </rect>
-<rect x="448" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Jan 03, 2026</title>
+<rect x="448" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Jan 10, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.56s" fill="freeze"/>
 </rect>
 <rect x="448" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 04, 2026</title>
+  <title>No contributions on Jan 11, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.564s" fill="freeze"/>
 </rect>
 <rect x="462" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 05, 2026</title>
+  <title>No contributions on Jan 12, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.558s" fill="freeze"/>
 </rect>
-<rect x="462" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 06, 2026</title>
+<rect x="462" y="34" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on Jan 13, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.562s" fill="freeze"/>
 </rect>
 <rect x="462" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 07, 2026</title>
+  <title>No contributions on Jan 14, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.566s" fill="freeze"/>
 </rect>
 <rect x="462" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 08, 2026</title>
+  <title>No contributions on Jan 15, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.57s" fill="freeze"/>
 </rect>
 <rect x="462" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 09, 2026</title>
+  <title>No contributions on Jan 16, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.574s" fill="freeze"/>
 </rect>
 <rect x="462" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 10, 2026</title>
+  <title>No contributions on Jan 17, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.578s" fill="freeze"/>
 </rect>
 <rect x="462" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 11, 2026</title>
+  <title>No contributions on Jan 18, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.582s" fill="freeze"/>
 </rect>
 <rect x="476" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 12, 2026</title>
+  <title>No contributions on Jan 19, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.576s" fill="freeze"/>
 </rect>
-<rect x="476" y="34" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on Jan 13, 2026</title>
+<rect x="476" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Jan 20, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.58s" fill="freeze"/>
 </rect>
 <rect x="476" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 14, 2026</title>
+  <title>No contributions on Jan 21, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.584s" fill="freeze"/>
 </rect>
 <rect x="476" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 15, 2026</title>
+  <title>No contributions on Jan 22, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.588s" fill="freeze"/>
 </rect>
 <rect x="476" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 16, 2026</title>
+  <title>No contributions on Jan 23, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.592s" fill="freeze"/>
 </rect>
 <rect x="476" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 17, 2026</title>
+  <title>No contributions on Jan 24, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.596s" fill="freeze"/>
 </rect>
 <rect x="476" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 18, 2026</title>
+  <title>No contributions on Jan 25, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.6s" fill="freeze"/>
 </rect>
 <rect x="490" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 19, 2026</title>
+  <title>No contributions on Jan 26, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.594s" fill="freeze"/>
 </rect>
 <rect x="490" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 20, 2026</title>
+  <title>No contributions on Jan 27, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.598s" fill="freeze"/>
 </rect>
 <rect x="490" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 21, 2026</title>
+  <title>No contributions on Jan 28, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.602s" fill="freeze"/>
 </rect>
 <rect x="490" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 22, 2026</title>
+  <title>No contributions on Jan 29, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.606s" fill="freeze"/>
 </rect>
 <rect x="490" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 23, 2026</title>
+  <title>No contributions on Jan 30, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.61s" fill="freeze"/>
 </rect>
 <rect x="490" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 24, 2026</title>
+  <title>No contributions on Jan 31, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.614s" fill="freeze"/>
 </rect>
 <rect x="490" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 25, 2026</title>
+  <title>No contributions on Feb 01, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.618s" fill="freeze"/>
 </rect>
 <rect x="504" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 26, 2026</title>
+  <title>No contributions on Feb 02, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.612s" fill="freeze"/>
 </rect>
 <rect x="504" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 27, 2026</title>
+  <title>No contributions on Feb 03, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.616s" fill="freeze"/>
 </rect>
 <rect x="504" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 28, 2026</title>
+  <title>No contributions on Feb 04, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.62s" fill="freeze"/>
 </rect>
 <rect x="504" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 29, 2026</title>
+  <title>No contributions on Feb 05, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.624s" fill="freeze"/>
 </rect>
 <rect x="504" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 30, 2026</title>
+  <title>No contributions on Feb 06, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.628s" fill="freeze"/>
 </rect>
 <rect x="504" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Jan 31, 2026</title>
+  <title>No contributions on Feb 07, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.632s" fill="freeze"/>
 </rect>
 <rect x="504" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 01, 2026</title>
+  <title>No contributions on Feb 08, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.636s" fill="freeze"/>
 </rect>
 <rect x="518" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 02, 2026</title>
+  <title>No contributions on Feb 09, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.63s" fill="freeze"/>
 </rect>
 <rect x="518" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 03, 2026</title>
+  <title>No contributions on Feb 10, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.634s" fill="freeze"/>
 </rect>
 <rect x="518" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 04, 2026</title>
+  <title>No contributions on Feb 11, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.638s" fill="freeze"/>
 </rect>
-<rect x="518" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 05, 2026</title>
+<rect x="518" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Feb 12, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.642s" fill="freeze"/>
 </rect>
 <rect x="518" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 06, 2026</title>
+  <title>No contributions on Feb 13, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.646s" fill="freeze"/>
 </rect>
 <rect x="518" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 07, 2026</title>
+  <title>No contributions on Feb 14, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.65s" fill="freeze"/>
 </rect>
-<rect x="518" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 08, 2026</title>
+<rect x="518" y="104" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on Feb 15, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.654s" fill="freeze"/>
 </rect>
 <rect x="532" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 09, 2026</title>
+  <title>No contributions on Feb 16, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.648s" fill="freeze"/>
 </rect>
 <rect x="532" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 10, 2026</title>
+  <title>No contributions on Feb 17, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.652s" fill="freeze"/>
 </rect>
 <rect x="532" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 11, 2026</title>
+  <title>No contributions on Feb 18, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.656s" fill="freeze"/>
 </rect>
-<rect x="532" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Feb 12, 2026</title>
+<rect x="532" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Feb 19, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.66s" fill="freeze"/>
 </rect>
-<rect x="532" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 13, 2026</title>
+<rect x="532" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Feb 20, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.664s" fill="freeze"/>
 </rect>
 <rect x="532" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 14, 2026</title>
+  <title>No contributions on Feb 21, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.668s" fill="freeze"/>
 </rect>
-<rect x="532" y="104" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on Feb 15, 2026</title>
+<rect x="532" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Feb 22, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.672s" fill="freeze"/>
 </rect>
-<rect x="546" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 16, 2026</title>
+<rect x="546" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Feb 23, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.666s" fill="freeze"/>
 </rect>
-<rect x="546" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 17, 2026</title>
+<rect x="546" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on Feb 24, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.67s" fill="freeze"/>
 </rect>
-<rect x="546" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 18, 2026</title>
+<rect x="546" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Feb 25, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.674s" fill="freeze"/>
 </rect>
-<rect x="546" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 19, 2026</title>
+<rect x="546" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on Feb 26, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.678s" fill="freeze"/>
 </rect>
 <rect x="546" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Feb 20, 2026</title>
+  <title>2 contributions on Feb 27, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.682s" fill="freeze"/>
 </rect>
-<rect x="546" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Feb 21, 2026</title>
+<rect x="546" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on Feb 28, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.686s" fill="freeze"/>
 </rect>
-<rect x="546" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Feb 22, 2026</title>
+<rect x="546" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 01, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.69s" fill="freeze"/>
 </rect>
-<rect x="560" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Feb 23, 2026</title>
+<rect x="560" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 02, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.684s" fill="freeze"/>
 </rect>
 <rect x="560" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on Feb 24, 2026</title>
+  <title>1 contribution on Mar 03, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.688s" fill="freeze"/>
 </rect>
-<rect x="560" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Feb 25, 2026</title>
+<rect x="560" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 04, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.692s" fill="freeze"/>
 </rect>
-<rect x="560" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on Feb 26, 2026</title>
+<rect x="560" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 05, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.696s" fill="freeze"/>
 </rect>
-<rect x="560" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on Feb 27, 2026</title>
+<rect x="560" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 06, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.7s" fill="freeze"/>
 </rect>
 <rect x="560" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on Feb 28, 2026</title>
+  <title>1 contribution on Mar 07, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.704s" fill="freeze"/>
 </rect>
-<rect x="560" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 01, 2026</title>
+<rect x="560" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Mar 08, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.708s" fill="freeze"/>
 </rect>
 <rect x="574" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 02, 2026</title>
+  <title>No contributions on Mar 09, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.702s" fill="freeze"/>
 </rect>
 <rect x="574" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 03, 2026</title>
+  <title>1 contribution on Mar 10, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.706s" fill="freeze"/>
 </rect>
 <rect x="574" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 04, 2026</title>
+  <title>No contributions on Mar 11, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.71s" fill="freeze"/>
 </rect>
 <rect x="574" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 05, 2026</title>
+  <title>No contributions on Mar 12, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.714s" fill="freeze"/>
 </rect>
 <rect x="574" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 06, 2026</title>
+  <title>No contributions on Mar 13, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.718s" fill="freeze"/>
 </rect>
-<rect x="574" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 07, 2026</title>
+<rect x="574" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 14, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.722s" fill="freeze"/>
 </rect>
 <rect x="574" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 08, 2026</title>
+  <title>1 contribution on Mar 15, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.726s" fill="freeze"/>
 </rect>
-<rect x="588" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 09, 2026</title>
+<rect x="588" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Mar 16, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.72s" fill="freeze"/>
 </rect>
-<rect x="588" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 10, 2026</title>
+<rect x="588" y="34" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>5 contributions on Mar 17, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.724s" fill="freeze"/>
 </rect>
-<rect x="588" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 11, 2026</title>
+<rect x="588" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Mar 18, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.728s" fill="freeze"/>
 </rect>
 <rect x="588" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 12, 2026</title>
+  <title>No contributions on Mar 19, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.732s" fill="freeze"/>
 </rect>
 <rect x="588" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 13, 2026</title>
+  <title>No contributions on Mar 20, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.736s" fill="freeze"/>
 </rect>
-<rect x="588" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 14, 2026</title>
+<rect x="588" y="90" width="11" height="11" rx="2" fill="#e8c97e" opacity="0">
+  <title>9 contributions on Mar 21, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.74s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="1.24s" repeatCount="indefinite"/>
 </rect>
-<rect x="588" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 15, 2026</title>
+<rect x="588" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 22, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.744s" fill="freeze"/>
 </rect>
-<rect x="602" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 16, 2026</title>
+<rect x="602" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 23, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.738s" fill="freeze"/>
 </rect>
-<rect x="602" y="34" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>5 contributions on Mar 17, 2026</title>
+<rect x="602" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 24, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.742s" fill="freeze"/>
 </rect>
-<rect x="602" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 18, 2026</title>
+<rect x="602" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Mar 25, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.746s" fill="freeze"/>
 </rect>
 <rect x="602" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 19, 2026</title>
+  <title>No contributions on Mar 26, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.75s" fill="freeze"/>
 </rect>
 <rect x="602" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 20, 2026</title>
+  <title>No contributions on Mar 27, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.754s" fill="freeze"/>
 </rect>
-<rect x="602" y="90" width="11" height="11" rx="2" fill="#e8c97e" opacity="0">
-  <title>9 contributions on Mar 21, 2026</title>
+<rect x="602" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Mar 28, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.758s" fill="freeze"/>
-  <animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="1.26s" repeatCount="indefinite"/>
 </rect>
-<rect x="602" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 22, 2026</title>
+<rect x="602" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Mar 29, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.762s" fill="freeze"/>
 </rect>
 <rect x="616" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 23, 2026</title>
+  <title>No contributions on Mar 30, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.756s" fill="freeze"/>
 </rect>
 <rect x="616" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 24, 2026</title>
+  <title>No contributions on Mar 31, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.76s" fill="freeze"/>
 </rect>
-<rect x="616" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 25, 2026</title>
+<rect x="616" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on Apr 01, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.764s" fill="freeze"/>
 </rect>
-<rect x="616" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 26, 2026</title>
+<rect x="616" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 02, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.768s" fill="freeze"/>
 </rect>
-<rect x="616" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 27, 2026</title>
+<rect x="616" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 03, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.772s" fill="freeze"/>
 </rect>
-<rect x="616" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 28, 2026</title>
+<rect x="616" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 04, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.776s" fill="freeze"/>
 </rect>
-<rect x="616" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Mar 29, 2026</title>
+<rect x="616" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 05, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.78s" fill="freeze"/>
 </rect>
-<rect x="630" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 30, 2026</title>
+<rect x="630" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on Apr 06, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.774s" fill="freeze"/>
 </rect>
-<rect x="630" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Mar 31, 2026</title>
+<rect x="630" y="34" width="11" height="11" rx="2" fill="#b07e1e" opacity="0">
+  <title>6 contributions on Apr 07, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.778s" fill="freeze"/>
 </rect>
-<rect x="630" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on Apr 01, 2026</title>
+<rect x="630" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 08, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.782s" fill="freeze"/>
 </rect>
-<rect x="630" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 02, 2026</title>
+<rect x="630" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 09, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.786s" fill="freeze"/>
 </rect>
-<rect x="630" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 03, 2026</title>
+<rect x="630" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 10, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.79s" fill="freeze"/>
 </rect>
-<rect x="630" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 04, 2026</title>
+<rect x="630" y="90" width="11" height="11" rx="2" fill="#e8c97e" opacity="0">
+  <title>11 contributions on Apr 11, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.794s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="1.29s" repeatCount="indefinite"/>
 </rect>
-<rect x="630" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 05, 2026</title>
+<rect x="630" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 12, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.798s" fill="freeze"/>
 </rect>
-<rect x="644" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on Apr 06, 2026</title>
+<rect x="644" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 13, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.792s" fill="freeze"/>
 </rect>
-<rect x="644" y="34" width="11" height="11" rx="2" fill="#b07e1e" opacity="0">
-  <title>6 contributions on Apr 07, 2026</title>
+<rect x="644" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 14, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.796s" fill="freeze"/>
 </rect>
-<rect x="644" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 08, 2026</title>
+<rect x="644" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on Apr 15, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.8s" fill="freeze"/>
 </rect>
-<rect x="644" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 09, 2026</title>
+<rect x="644" y="62" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on Apr 16, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.804s" fill="freeze"/>
 </rect>
 <rect x="644" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 10, 2026</title>
+  <title>No contributions on Apr 17, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.808s" fill="freeze"/>
 </rect>
-<rect x="644" y="90" width="11" height="11" rx="2" fill="#e8c97e" opacity="0">
-  <title>11 contributions on Apr 11, 2026</title>
+<rect x="644" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 18, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.812s" fill="freeze"/>
-  <animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="1.31s" repeatCount="indefinite"/>
 </rect>
-<rect x="644" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 12, 2026</title>
+<rect x="644" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 19, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.816s" fill="freeze"/>
 </rect>
 <rect x="658" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 13, 2026</title>
+  <title>No contributions on Apr 20, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.81s" fill="freeze"/>
 </rect>
-<rect x="658" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 14, 2026</title>
+<rect x="658" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 21, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.814s" fill="freeze"/>
 </rect>
-<rect x="658" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on Apr 15, 2026</title>
+<rect x="658" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 22, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.818s" fill="freeze"/>
 </rect>
-<rect x="658" y="62" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on Apr 16, 2026</title>
+<rect x="658" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on Apr 23, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.822s" fill="freeze"/>
 </rect>
-<rect x="658" y="76" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 17, 2026</title>
+<rect x="658" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 24, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.826s" fill="freeze"/>
 </rect>
-<rect x="658" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 18, 2026</title>
+<rect x="658" y="90" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on Apr 25, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.83s" fill="freeze"/>
 </rect>
-<rect x="658" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 19, 2026</title>
+<rect x="658" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 26, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.834s" fill="freeze"/>
 </rect>
-<rect x="672" y="20" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 20, 2026</title>
+<rect x="672" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on Apr 27, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.828s" fill="freeze"/>
 </rect>
-<rect x="672" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 21, 2026</title>
+<rect x="672" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 28, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.832s" fill="freeze"/>
 </rect>
-<rect x="672" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 22, 2026</title>
+<rect x="672" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 29, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.836s" fill="freeze"/>
 </rect>
-<rect x="672" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on Apr 23, 2026</title>
+<rect x="672" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on Apr 30, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.84s" fill="freeze"/>
 </rect>
-<rect x="672" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 24, 2026</title>
+<rect x="672" y="76" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>4 contributions on May 01, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.844s" fill="freeze"/>
 </rect>
-<rect x="672" y="90" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on Apr 25, 2026</title>
+<rect x="672" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on May 02, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.848s" fill="freeze"/>
 </rect>
-<rect x="672" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 26, 2026</title>
+<rect x="672" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on May 03, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.852s" fill="freeze"/>
 </rect>
-<rect x="686" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on Apr 27, 2026</title>
+<rect x="686" y="20" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>4 contributions on May 04, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.846s" fill="freeze"/>
 </rect>
 <rect x="686" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 28, 2026</title>
+  <title>1 contribution on May 05, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.85s" fill="freeze"/>
 </rect>
 <rect x="686" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 29, 2026</title>
+  <title>1 contribution on May 06, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.854s" fill="freeze"/>
 </rect>
 <rect x="686" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on Apr 30, 2026</title>
+  <title>1 contribution on May 07, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.858s" fill="freeze"/>
 </rect>
-<rect x="686" y="76" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>4 contributions on May 01, 2026</title>
+<rect x="686" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on May 08, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.862s" fill="freeze"/>
 </rect>
-<rect x="686" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on May 02, 2026</title>
+<rect x="686" y="90" width="11" height="11" rx="2" fill="#b07e1e" opacity="0">
+  <title>7 contributions on May 09, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.866s" fill="freeze"/>
 </rect>
-<rect x="686" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 03, 2026</title>
+<rect x="686" y="104" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>4 contributions on May 10, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.87s" fill="freeze"/>
 </rect>
 <rect x="700" y="20" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>4 contributions on May 04, 2026</title>
+  <title>4 contributions on May 11, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.864s" fill="freeze"/>
 </rect>
-<rect x="700" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 05, 2026</title>
+<rect x="700" y="34" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on May 12, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.868s" fill="freeze"/>
 </rect>
-<rect x="700" y="48" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 06, 2026</title>
+<rect x="700" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on May 13, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.872s" fill="freeze"/>
 </rect>
 <rect x="700" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 07, 2026</title>
+  <title>2 contributions on May 14, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.876s" fill="freeze"/>
 </rect>
 <rect x="700" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on May 08, 2026</title>
+  <title>1 contribution on May 15, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.88s" fill="freeze"/>
 </rect>
-<rect x="700" y="90" width="11" height="11" rx="2" fill="#b07e1e" opacity="0">
-  <title>7 contributions on May 09, 2026</title>
+<rect x="700" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on May 16, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.884s" fill="freeze"/>
 </rect>
-<rect x="700" y="104" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>4 contributions on May 10, 2026</title>
+<rect x="700" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on May 17, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.888s" fill="freeze"/>
 </rect>
-<rect x="714" y="20" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>4 contributions on May 11, 2026</title>
+<rect x="714" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on May 18, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.882s" fill="freeze"/>
 </rect>
-<rect x="714" y="34" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on May 12, 2026</title>
+<rect x="714" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>1 contribution on May 19, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.886s" fill="freeze"/>
 </rect>
-<rect x="714" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 13, 2026</title>
+<rect x="714" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on May 20, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.89s" fill="freeze"/>
 </rect>
-<rect x="714" y="62" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on May 14, 2026</title>
+<rect x="714" y="62" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>5 contributions on May 21, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.894s" fill="freeze"/>
 </rect>
-<rect x="714" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 15, 2026</title>
+<rect x="714" y="76" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>3 contributions on May 22, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.898s" fill="freeze"/>
 </rect>
-<rect x="714" y="90" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 16, 2026</title>
+<rect x="714" y="90" width="11" height="11" rx="2" fill="#b07e1e" opacity="0">
+  <title>6 contributions on May 23, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.902s" fill="freeze"/>
 </rect>
 <rect x="714" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on May 17, 2026</title>
+  <title>1 contribution on May 24, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.906s" fill="freeze"/>
 </rect>
 <rect x="728" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 18, 2026</title>
+  <title>1 contribution on May 25, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9s" fill="freeze"/>
 </rect>
-<rect x="728" y="34" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 19, 2026</title>
+<rect x="728" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on May 26, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.904s" fill="freeze"/>
 </rect>
-<rect x="728" y="48" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on May 20, 2026</title>
+<rect x="728" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on May 27, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.908s" fill="freeze"/>
 </rect>
-<rect x="728" y="62" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>5 contributions on May 21, 2026</title>
+<rect x="728" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
+  <title>No contributions on May 28, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.912s" fill="freeze"/>
 </rect>
-<rect x="728" y="76" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
-  <title>3 contributions on May 22, 2026</title>
+<rect x="728" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on May 29, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.916s" fill="freeze"/>
 </rect>
-<rect x="728" y="90" width="11" height="11" rx="2" fill="#b07e1e" opacity="0">
-  <title>6 contributions on May 23, 2026</title>
+<rect x="728" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on May 30, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.92s" fill="freeze"/>
 </rect>
 <rect x="728" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 24, 2026</title>
+  <title>2 contributions on May 31, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.924s" fill="freeze"/>
 </rect>
 <rect x="742" y="20" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>1 contribution on May 25, 2026</title>
+  <title>2 contributions on Jun 01, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.918s" fill="freeze"/>
 </rect>
 <rect x="742" y="34" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 26, 2026</title>
+  <title>No contributions on Jun 02, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.922s" fill="freeze"/>
 </rect>
 <rect x="742" y="48" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 27, 2026</title>
+  <title>No contributions on Jun 03, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.926s" fill="freeze"/>
 </rect>
-<rect x="742" y="62" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 28, 2026</title>
+<rect x="742" y="62" width="11" height="11" rx="2" fill="#6b4e12" opacity="0">
+  <title>4 contributions on Jun 04, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.93s" fill="freeze"/>
 </rect>
-<rect x="742" y="76" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on May 29, 2026</title>
+<rect x="742" y="76" width="11" height="11" rx="2" fill="#e8c97e" opacity="0">
+  <title>9 contributions on Jun 05, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.934s" fill="freeze"/>
+  <animate attributeName="opacity" values="1;0.55;1" dur="2.6s" begin="1.43s" repeatCount="indefinite"/>
 </rect>
 <rect x="742" y="90" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
-  <title>2 contributions on May 30, 2026</title>
+  <title>2 contributions on Jun 06, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.938s" fill="freeze"/>
 </rect>
-<rect x="742" y="104" width="11" height="11" rx="2" fill="#1c2030" opacity="0">
-  <title>No contributions on May 31, 2026</title>
+<rect x="742" y="104" width="11" height="11" rx="2" fill="#3d2e0a" opacity="0">
+  <title>2 contributions on Jun 07, 2026</title>
   <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.942s" fill="freeze"/>
 </rect>
 <text x="641" y="140" text-anchor="end" font-family="'SF Mono',monospace" font-size="9" fill="#7d8590">less</text>
