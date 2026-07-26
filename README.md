@@ -29,7 +29,7 @@
 ```js
 const jatin = {
   role     : "Full-Stack & AI/ML Engineer",
-  stack    : [ "React", "Next.js", "TypeScript", "Node.js" ],
+  stack    : [ "React", "Next.js", "TypeScript", "Node.js", Rust ],
   ai       : [ "Deep Learning", "Big Data", "AI Systems Design" ],
   mobile   : "React Native",
   web3     : "Solana Ecosystem",
