@@ -16,7 +16,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0f14?style=flat-square&logo=linkedin&logoColor=e8c97e)](https://linkedin.com/in/Jatin%20Sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0f14?style=flat-square&logo=linkedin&logoColor=e8c97e)](https://www.linkedin.com/in/jatin-sharma-556a59301/)
 &nbsp;
 [![X](https://img.shields.io/badge/X-0d0f14?style=flat-square&logo=x&logoColor=e8c97e)](https://x.com/JatinSharmaa22)
 &nbsp;
