@@ -117,15 +117,6 @@ const jatin = {
 
 ---
 
-
-<div align="center">
-
-![Contribution Graph](./contribution-graph.svg)
-
-</div>
-
----
-
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
